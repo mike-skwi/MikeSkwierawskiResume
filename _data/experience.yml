@@ -1,19 +1,20 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Law Bulletin Media
+  position: SQA Automation Engineer 
+  duration: December, 2018 &mdash; Present
+  summary: Wrote automation test cases/scripts that were used to test the company’s website with Java/Selenium/TestNG<ul class="resume-item-list"><li>Created numerous test suites and cases while writing in depth documentation.</li><li>Got acquainted with Jira for bug reporting and the Agile methodology</li>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Eat Purely
+  position: Full Stack Software Developer Intern
+  duration:  August, 2017 &mdash; January, 2018
+  summary: Gained signifficant experience in both the front and back end.<br>Learned how to work with a team of other developers to get projects done on time.<br>Became familiar with CLI, GIT, and numerous programming concepts.
+
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Bop N Grill
+  position: Line Cook
+  duration:   September, 2016  &mdash; December, 2018
+  summary: Effectively worked long hours in a fast-paced environment where teamwork and communication were vital to the success of the business <br> Restocked inventory, served customers, took phone calls, and kept up with inventory orders
